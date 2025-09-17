@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 3e7ef0182f59c7990a52cf6ec2981adb56d5b368 Franek <franek@fedora.(none)> 1751875342 +0200	fetch --depth=1 origin: storing head
+3e7ef0182f59c7990a52cf6ec2981adb56d5b368 dc3bbcda2689b26cfb16e714225e263fa74e3f70 Franek <franek@fedora.(none)> 1753085069 +0200	pull --quiet --rebase origin master: fast-forward
+dc3bbcda2689b26cfb16e714225e263fa74e3f70 a6beb0f5958e935d33b0edb6d4470c3d7c4e8917 franek-sz <93454655+franek-sz@users.noreply.github.com> 1754289919 +0200	pull --quiet --rebase origin master: fast-forward
+a6beb0f5958e935d33b0edb6d4470c3d7c4e8917 c2a69fe5904e074f0049a941c09f039acdce40a3 franek-sz <93454655+franek-sz@users.noreply.github.com> 1755521119 +0200	pull --quiet --rebase origin master: fast-forward
+c2a69fe5904e074f0049a941c09f039acdce40a3 2525dae6613652ec9cb572bdc2fdf80ef837a967 franek-sz <93454655+franek-sz@users.noreply.github.com> 1756714053 +0200	pull --quiet --rebase origin master: fast-forward
+2525dae6613652ec9cb572bdc2fdf80ef837a967 9e23925b8581d22033f07f1983587412d3761494 franek-sz <93454655+franek-sz@users.noreply.github.com> 1757922588 +0200	pull --quiet --rebase origin master: fast-forward
