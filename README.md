@@ -67,3 +67,5 @@
 ![](/home/franek/.local/share/chezmoi/screencaps/4.png)
 
 <sub>Zen + Obsidian</sub>
+
+
