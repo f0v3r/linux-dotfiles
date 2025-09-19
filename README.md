@@ -2,7 +2,7 @@
 
 ---
 
-![](/home/franek/.local/share/chezmoi/image.png)
+![banner](/image.png)
 
 ---
 
@@ -52,19 +52,19 @@
 
 ## SCREENSHOTS
 
-![](/home/franek/.local/share/chezmoi/screencaps/1.png)
+![helix + cbonsai](screencaps/1.png)
 
 <sub>Helix + cbonsai</sub>
 
-![](/home/franek/.local/share/chezmoi/screencaps/2.png)
+![cider + cava](screencaps/2.png)
 
 <sub>Cider + Cava</sub>
 
-![](/home/franek/.local/share/chezmoi/screencaps/3.png)
+![helix + btop](screencaps/3.png)
 
 <sub>Helix + btop</sub>
 
-![](/home/franek/.local/share/chezmoi/screencaps/4.png)
+![zen + obsidian](screencaps/4.png)
 
 <sub>Zen + Obsidian</sub>
 
